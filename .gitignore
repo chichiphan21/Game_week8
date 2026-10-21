@@ -1,0 +1,38 @@
+# Unity generated files and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# Generated IDE projects and local caches
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.unityproj
+/*.opendb
+/*.VC.db
+
+# Unity crash reports
+/sysinfo.txt
+/crashlytics-build.properties
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
